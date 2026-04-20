@@ -85,7 +85,7 @@ rtp://239.21.1.208:5002?fcc=150.138.8.132:8027&fec=5126
 rtp://239.21.1.169:5002?fcc=150.138.8.132:8027&fec=5126
 #EXTINF:-1 tvg-id="居家购物" tvg-name="居家购物" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东居家购物裁切.png" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226091/10000100000000060000000002859311_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" tvg-shift="0" group-title="🏠 山东省级",居家购物
 rtp://239.21.1.112:5002?fcc=150.138.8.132:8027&fec=5126
-#EXTINF:-1 tvg-id="山东综合广播" tvg-name="山东综合广播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东综合广播.png" catchup="none" catchup-days="0" tvg-shift="0" group-title="🏠 山东省级",山东综合广播
+#EXTINF:-1 tvg-id="山东综合广播" tvg-name="山东综合广播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东广播综合.png" catchup="none" catchup-days="0" tvg-shift="0" group-title="🏠 山东省级",山东综合广播
 rtp://239.21.2.36:5002?fcc=150.138.8.132:8027&fec=5126
 #EXTINF:-1 tvg-id="山东经济广播" tvg-name="山东经济广播" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东经济广播.png" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227366/490711725.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" tvg-shift="0" group-title="🏠 山东省级",山东经济广播
 rtp://239.21.2.148:5002?fcc=150.138.8.132:8027&fec=5126
