@@ -57,12 +57,8 @@ rtp://239.21.2.172:5002?fcc=150.138.8.132:8027&fec=5126
 rtp://239.21.2.173:5002?fcc=150.138.8.132:8027&fec=5126
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/深圳卫视.png" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227307/521682571.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" tvg-shift="0" group-title="💎 4K超高清",深圳卫视-4K
 rtp://239.21.2.174:5002?fcc=150.138.8.132:8027&fec=5126
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/深圳卫视.png" catchup="none" catchup-days="0" tvg-shift="0" group-title="💎 4K超高清",深圳卫视-4K
-rtp://239.21.2.158:5002?fcc=150.138.8.132:8027&fec=5126
 #EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227442/527218192.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" tvg-shift="0" group-title="💎 4K超高清",山东卫视-4K
 rtp://239.21.2.179:5002?fcc=150.138.8.132:8027&fec=5126
-#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png" catchup="none" catchup-days="0" tvg-shift="0" group-title="💎 4K超高清",山东卫视-4K
-rtp://239.21.2.157:5002?fcc=150.138.8.132:8027&fec=5126
 #EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/四川卫视.png" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221227335/527738522.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" tvg-shift="0" group-title="💎 4K超高清",四川卫视-4K
 rtp://239.21.2.185:5002?fcc=150.138.8.132:8027&fec=5126
 #EXTINF:-1 tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东齐鲁.png" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226119/10000100000000060000000002952439_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" tvg-shift="0" group-title="🏠 山东省级",山东齐鲁
@@ -105,6 +101,10 @@ rtp://239.21.1.88:5002?fcc=150.138.8.132:8027&fec=5126
 rtp://239.21.1.159:5002?fcc=150.138.8.132:8027&fec=5126
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226059/10000100000000060000000002709088_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" tvg-shift="0" group-title="⭐ 卫视频道",山东卫视
 rtp://239.21.1.87:5002?fcc=150.138.8.132:8027&fec=5126
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226059/10000100000000060000000002709088_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" tvg-shift="0" group-title="⭐ 卫视频道",山东卫视
+rtp://239.21.2.158:5002?fcc=150.138.8.132:8027&fec=5126
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/山东卫视.png" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226059/10000100000000060000000002709088_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" tvg-shift="0" group-title="⭐ 卫视频道",山东卫视
+rtp://239.21.2.157:5002?fcc=150.138.8.132:8027&fec=5126
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/天津卫视.png" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226211/10000100000000060000000003301168_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" tvg-shift="0" group-title="⭐ 卫视频道",天津卫视
 rtp://239.21.1.165:5002?fcc=150.138.8.132:8027&fec=5126
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SDU-IPTV-PRO/main/logo/辽宁卫视.png" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226209/10000100000000060000000003301163_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" tvg-shift="0" group-title="⭐ 卫视频道",辽宁卫视
